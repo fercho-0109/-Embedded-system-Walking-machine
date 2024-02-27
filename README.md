@@ -20,12 +20,26 @@ The main objectives are:
 -	Configure the DC gear motor and servo motor for the conveyor belt and inclination respectively.  
 -	Control the velocity of the conveyor belt with a controller. 
 -	Generate a code capable of following the logic presented in the figure.
+![image](https://github.com/fercho-0109/Embedded-system-Walking-machine/assets/40362695/ebde29f8-2838-4d8d-a130-a5d584483453)
+
+# Detailed list of the materials used
+STM32 Nucleo-STM32F411RET  
+Mini-USB <-> USB cable  
+Breadboard  
+Cables  
+Resistors  
+Capacitors  
+Buttons  
+LED  
+Optical encoder   
+Rotary Potentiometer  
+L293D h-bridge  
+DC motor 
+Step motor
+# Software and Development Environment
+[[STM32CubeIDE]([https://ieeexplore.ieee.org/document/10156498](https://www.st.com/en/development-tools/stm32cubeide.html#tools-software))]
 
 
-
-
-# Prerequisites
-- The code was created and tested on the Matlab/Simulink 2023a environment
 
 # File description
 The repository contains three files
