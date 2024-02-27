@@ -40,7 +40,7 @@ Step motor
 [[STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html#tools-software)]
 ## References
 [[Nucleo 64 - User Manual](https://www.st.com/resource/en/user_manual/dm00105823-stm32-nucleo-64-boards-mb1136-stmicroelectronics.pdf)]  
-[[STM32F411RET6 Datasheet](https://www.alldatasheet.com/datasheet-pdf/pdf/1009260/STMICROELECTRONICS/STM32F411RET6.html)]
+[[STM32F411RET6 Datasheet](https://www.alldatasheet.com/datasheet-pdf/pdf/1009260/STMICROELECTRONICS/STM32F411RET6.html)]  
 [[STM32F411RET6 reference manual](https://www.micro-semiconductor.com/datasheet/02-STM32F411RET6.pdf)]
 
 ## Conections 
@@ -50,19 +50,9 @@ The main connections are shown in the figure below while the connections of the 
 
 # File description
 The repository contains three files
-1. **MAIN**: This Matlab file contains the configuration parameters of the program and shows the poles of the plant after control.
-2. **CD_MOTORControl2**: This simulink file contains the complete simulation of the CNC machine with its reference generator.
-3. **Report**: This contains the explanation of the complete process, the mathematical formulations, and the control configuration.
+1. **FINAL_PROJECT_2**: This folder contains all the files to open the project in the STM32CubeIDE software.
+2. **Report**: This contains the explanation of the complete process, the programming logic and all the connections
 
-
-# Example to run the experiment  
-**"CNC cutting machine"**
-### Matlab/Simulink simulation 
-1. Download the files. 
-2. Run the Matlab file "**MAIN**".
-3. Open and run the Simulink file "**CD_MOTORControl2**"
-4. The XY Graph block should start to show the results  
-![image](https://github.com/fercho-0109/CNC-2D-cutting-machine-Control/assets/40362695/fdf0f90a-b552-409e-ade6-690a95bdbeeb)
 
 
 
