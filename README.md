@@ -13,11 +13,11 @@ At the heart of this system is the microcontroller STM32F411RET6, featuring an A
 the system is completely programmed using REGISTERS.
 
 # Objectives   
-the main objectives are:
+The main objectives are:
 -	Generate controllers that allow us to configure the velocity.
 -	Generate an analog input to set up the inclination of the conveyor belt.
 -	Configurate a 16x2 LCD to show instructions and values.
--	Configurate the DC gear motor and servo motor for the conveyor belt and inclination respectively.  
+-	Configure the DC gear motor and servo motor for the conveyor belt and inclination respectively.  
 -	Control the velocity of the conveyor belt with a controller. 
 -	Generate a code capable of following the logic presented in the figure.
 
