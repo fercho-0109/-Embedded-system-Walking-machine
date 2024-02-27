@@ -37,7 +37,7 @@ L293D h-bridge
 DC motor   
 Step motor
 ## Software and Development Environment
-[[STM32CubeIDE]((https://www.st.com/en/development-tools/stm32cubeide.html#tools-software)]
+[[STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html#tools-software)]
 
 
 
