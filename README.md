@@ -45,6 +45,7 @@ Step motor
 
 ## Conections 
 The main connections are shown in the figure below while the connections of the other elements are detailed in the report.
+![image](https://github.com/fercho-0109/Embedded-system-Walking-machine/assets/40362695/b73002de-67cf-48c1-b37a-ba46133f782a)
 
 
 # File description
