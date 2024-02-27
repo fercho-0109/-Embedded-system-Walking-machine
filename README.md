@@ -41,7 +41,10 @@ Step motor
 ## References
 [[Nucleo 64 - User Manual](https://www.st.com/resource/en/user_manual/dm00105823-stm32-nucleo-64-boards-mb1136-stmicroelectronics.pdf)]  
 [[STM32F411RET6 Datasheet](https://www.alldatasheet.com/datasheet-pdf/pdf/1009260/STMICROELECTRONICS/STM32F411RET6.html)]
+[[STM32F411RET6 reference manual](https://www.micro-semiconductor.com/datasheet/02-STM32F411RET6.pdf)]
 
+## Conections 
+The main connections are shown in the figure below while the connections of the other elements are detailed in the report.
 
 
 # File description
