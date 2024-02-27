@@ -1,7 +1,7 @@
 # Embedded-system-Walking-machine
 
 Code developed for "A. Marino, - Programming and construction of a scale walking machine. ".  
-Master's student "Calabria University". 
+Master's student "Calabria University".  
 For any questions or suggestions write to alexismarino0109@gmail.com
 
 
@@ -10,14 +10,18 @@ The project entails developing a scale system designed to emulate the operations
 
 At the heart of this system is the microcontroller STM32F411RET6, featuring an ARM Cortex-M architecture meticulously suited for embedded devices characterized by low power consumption. This choice ensures optimal performance and efficiency in line with the project's embedded systems focus.
 
+the system is completely programmed using REGISTERS.
+
 # Objectives   
 the main objectives are:
-•	Generate controllers that allow us to configurate the velocity 
-•	Generate an analogue input to set up the inclination of conveyor belt 
-•	Configurate a 16x2 Lcd to show instructions and values.
-•	Configurate the DC gear motor and servo motor for the conveyor belt and inclination respectively  
-•	Control the velocity of the conveyor belt with a controller 
-•	Generate a code capable of follow the logic presented in fig.1.
+-	Generate controllers that allow us to configure the velocity.
+-	Generate an analog input to set up the inclination of the conveyor belt.
+-	Configurate a 16x2 LCD to show instructions and values.
+-	Configurate the DC gear motor and servo motor for the conveyor belt and inclination respectively.  
+-	Control the velocity of the conveyor belt with a controller. 
+-	Generate a code capable of following the logic presented in the figure.
+
+
 
 
 # Prerequisites
