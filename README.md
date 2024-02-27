@@ -39,8 +39,8 @@ Step motor
 ## Software and Development Environment
 [[STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html#tools-software)]
 ## References
-[Nucleo 64 - User Manual](https://www.st.com/resource/en/user_manual/dm00105823-stm32-nucleo-64-boards-mb1136-stmicroelectronics.pdf)]
-[STM32F411RET6 Datasheet](https://www.alldatasheet.com/datasheet-pdf/pdf/1009260/STMICROELECTRONICS/STM32F411RET6.html)]
+[[Nucleo 64 - User Manual](https://www.st.com/resource/en/user_manual/dm00105823-stm32-nucleo-64-boards-mb1136-stmicroelectronics.pdf)]  
+[[STM32F411RET6 Datasheet](https://www.alldatasheet.com/datasheet-pdf/pdf/1009260/STMICROELECTRONICS/STM32F411RET6.html)]
 
 
 
