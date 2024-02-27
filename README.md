@@ -10,7 +10,7 @@ The project entails developing a scale system designed to emulate the operations
 
 At the heart of this system is the microcontroller STM32F411RET6, featuring an ARM Cortex-M architecture meticulously suited for embedded devices characterized by low power consumption. This choice ensures optimal performance and efficiency in line with the project's embedded systems focus.
 
-the system is completely programmed using REGISTERS.
+The project is completely programmed using REGISTERS.
 
 # Objectives   
 The main objectives are:
@@ -51,8 +51,8 @@ The main connections are shown in the figure below while the connections of the 
 # File description
 The repository contains three files
 1. **FINAL_PROJECT_2**: This folder contains all the files to open the project in the STM32CubeIDE software.
-2. **Report**: This contains the explanation of the complete process, the programming logic and all the connections
-
-
+2. **Report**: This contains the explanation of the complete process, the programming logic, and all the connections
+# Implementation
+For the successful implementation of this project, it is imperative to procure all the materials listed and establish the connections as outlined in the accompanying report. Following this, download the FINAL_PROJECT_2 folder, and using the STM32CubeIDE software, proceed to open it. Subsequently, load the primary program onto the STM32F411RET6 microcontroller. The main program resides in FINAL_PROJECT_2\Core\Src\main, and its integration ensures the seamless functionality of the entire system.
 
 
