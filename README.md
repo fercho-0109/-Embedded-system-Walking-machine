@@ -22,7 +22,7 @@ The main objectives are:
 -	Generate a code capable of following the logic presented in the figure.
 ![image](https://github.com/fercho-0109/Embedded-system-Walking-machine/assets/40362695/ebde29f8-2838-4d8d-a130-a5d584483453)
 
-# Detailed list of the materials used
+## Detailed list of the materials used
 STM32 Nucleo-STM32F411RET  
 Mini-USB <-> USB cable  
 Breadboard  
@@ -34,10 +34,10 @@ LED
 Optical encoder   
 Rotary Potentiometer  
 L293D h-bridge  
-DC motor 
+DC motor   
 Step motor
-# Software and Development Environment
-[[STM32CubeIDE]([https://ieeexplore.ieee.org/document/10156498](https://www.st.com/en/development-tools/stm32cubeide.html#tools-software))]
+## Software and Development Environment
+[[STM32CubeIDE]((https://www.st.com/en/development-tools/stm32cubeide.html#tools-software)]
 
 
 
